@@ -91,4 +91,5 @@ Each stage feeds the next: knowledge gives your calculations a basis, experience
 \[4] NCEES, “FE Exam,” NCEES, n.d. [Online]. Available: https://ncees.org/exams/fe-exam/. [Accessed: Oct. 26, 2026].
 
 \[5] University of Washington Bothell, “Electrical Engineering,” UW Bothell, n.d. [Online]. Available: https://www.uwb.edu/stem/undergraduate/majors/electrical. [Accessed: Oct. 26, 2026].
-[word count: 672]
+
+\[word count: 672]
