@@ -12,31 +12,22 @@
 
 **Table of Contents**
 
-[Purpose	2
 
-[Build Technical Knowledge	2
+## Table of Contents
 
-[Electrical Engineering Fundamentals	2
-
-[Safety Codes and Design Tools	2
-
-[Engineering Calculations	2
-
-[Gain Practical Experience	3
-
-[Utility Internships	3
-
-[Learning Through Internships	3
-
-[Prepare for Professional Employment	3
-
-[FE Exam Preparation	3
-
-[Career Readiness	4
-
-[Conclusion	4
-
-[References	4
+- [Purpose](#purpose)
+- [Build Technical Knowledge](#build-technical-knowledge)
+  - [Electrical Engineering Fundamentals](#electrical-engineering-fundamentals)
+  - [Safety Codes and Design Tools](#safety-codes-and-design-tools)
+  - [Engineering Calculations](#engineering-calculations)
+- [Gain Practical Experience](#gain-practical-experience)
+  - [Utility Internships](#utility-internships)
+  - [Learning Through Internships](#learning-through-internships)
+- [Prepare for Professional Employment](#prepare-for-professional-employment)
+  - [FE Exam Preparation](#fe-exam-preparation)
+  - [Career Readiness](#career-readiness)
+- [Conclusion](#conclusion)
+- [References](#references)
 
 ---
 
